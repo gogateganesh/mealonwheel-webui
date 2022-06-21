@@ -1,0 +1,20 @@
+.txt{
+    width:100%;
+    padding:15px;
+    margin:5px;
+    border-radius:1px;
+    border:1px solid #ccc;
+    font-family:inherit;
+    border-radius: 5px;
+    font-weight: bold;  
+}
+.btn{
+    width:100%;
+    padding:15px;
+    margin:5px;
+    border-radius:1px;
+    border:1px solid #ccc;
+    font-family:inherit;
+    border-radius: 5px;
+    font-weight: bold;
+}
