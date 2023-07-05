@@ -3,7 +3,7 @@ name: Docker Build
 on:
   push:
     branches:
-      - master  # Adjust this branch name as needed
+      - master 
   pull_request:
 
 jobs:
